@@ -23,7 +23,7 @@ Platform assembly: E:\Games\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll (thi
 Loading E:\Games\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll into Unity Child Domain
 Platform assembly: E:\Games\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
 Loading E:\Games\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
-- Completed reload, in  0.902 seconds
+- Completed reload, in  0.792 seconds
 Platform assembly: E:\Games\RimWorld\RimWorldWin64_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Games\RimWorld\RimWorldWin64_Data\Managed\System.dll (this message is harmless)
 Platform assembly: E:\Games\RimWorld\RimWorldWin64_Data\Managed\System.Xml.dll (this message is harmless)
@@ -33,7 +33,7 @@ WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to defau
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 1.662861 ms
+UnloadTime: 1.636692 ms
 RimWorld 1.0.2150 rev801
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -47,235 +47,219 @@ Platform assembly: E:\Games\RimWorld\RimWorldWin64_Data\Managed\System.Xml.Linq.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Malformed (correct format is Major.Minor) version string on mod ED-Embrasures from Jaxxa "1.0.2059" - parsed as "1.0"
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Malformed (correct format is Major.Minor) version string on mod ED-Embrasures from Jaxxa "1.0.2059" - parsed as "1.0"
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Non platform assembly: data-0000000015E2D720 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015E2D720.dll
-Non platform assembly: data-0000000015E4D140 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015E4D140.dll
-Non platform assembly: data-0000000015E71950 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015E71950.dll
-Non platform assembly: data-0000000015E76B60 (this message is harmless)
-Non platform assembly: data-0000000015E76B60 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015E76B60.dll
-Non platform assembly: data-0000000015EAA010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015EAA010.dll
-Non platform assembly: data-0000000015ECBCE0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015ECBCE0.dll
-Non platform assembly: data-0000000015EF53C0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015EF53C0.dll
-Non platform assembly: data-0000000015F4E010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015F4E010.dll
-Non platform assembly: data-0000000015FCC620 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015FCC620.dll
-Non platform assembly: data-0000000015FF7C70 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015FF7C70.dll
-Non platform assembly: data-0000000015FFEA80 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015FFEA80.dll
-Non platform assembly: data-0000000016015010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016015010.dll
-Non platform assembly: data-0000000016020430 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016020430.dll
-Non platform assembly: data-0000000016021E40 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016021E40.dll
-Non platform assembly: data-0000000015FA4550 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015FA4550.dll
-Non platform assembly: data-0000000016028650 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016028650.dll
-Non platform assembly: data-0000000016029C60 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016029C60.dll
-Non platform assembly: data-000000001602F470 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001602F470.dll
-Non platform assembly: data-0000000010A0C8A0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000010A0C8A0.dll
-Non platform assembly: data-0000000015DD1100 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015DD1100.dll
-Non platform assembly: data-00000000160410A0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000160410A0.dll
-Non platform assembly: data-000000001604A4B0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001604A4B0.dll
-Non platform assembly: data-000000001604C6C0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001604C6C0.dll
-Non platform assembly: data-0000000016074CE0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016074CE0.dll
-Non platform assembly: data-000000001607A8F0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001607A8F0.dll
-Non platform assembly: data-000000001607CD00 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001607CD00.dll
-Non platform assembly: data-0000000016097120 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016097120.dll
-Non platform assembly: data-0000000016159030 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016159030.dll
-Non platform assembly: data-000000001615D040 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001615D040.dll
-Non platform assembly: data-0000000016187420 (this message is harmless)
-Non platform assembly: data-0000000016187420 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016187420.dll
-Non platform assembly: data-000000001619FB10 (this message is harmless)
-Non platform assembly: data-000000001619FB10 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001619FB10.dll
-Non platform assembly: data-0000000005088470 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000005088470.dll
-Non platform assembly: data-00000000161A4B20 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000161A4B20.dll
-Non platform assembly: data-00000000161A7F30 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000161A7F30.dll
-Non platform assembly: data-000000001622AB70 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001622AB70.dll
-Non platform assembly: data-000000001622F780 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001622F780.dll
-Non platform assembly: data-0000000016233BA0 (this message is harmless)
-Non platform assembly: data-0000000016233BA0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016233BA0.dll
-Non platform assembly: data-000000001625C010 (this message is harmless)
-Non platform assembly: data-000000001625C010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001625C010.dll
-Non platform assembly: data-000000001625FC20 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001625FC20.dll
-Non platform assembly: data-000000001626FE40 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001626FE40.dll
-Non platform assembly: data-000000001627DA50 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001627DA50.dll
-Non platform assembly: data-0000000016221010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016221010.dll
-Non platform assembly: data-0000000016282A60 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016282A60.dll
-Non platform assembly: data-0000000016283870 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016283870.dll
-Non platform assembly: data-0000000016285680 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016285680.dll
-Non platform assembly: data-000000001628ACA0 (this message is harmless)
-Non platform assembly: data-000000001628ACA0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001628ACA0.dll
-Non platform assembly: data-00000000162B04C0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000162B04C0.dll
-Non platform assembly: data-00000000162B22D0 (this message is harmless)
-Non platform assembly: data-00000000162B22D0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000162B22D0.dll
-Non platform assembly: data-00000000162B4EE0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000162B4EE0.dll
-Non platform assembly: data-00000000162C1F00 (this message is harmless)
-Non platform assembly: data-00000000162C1F00 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000162C1F00.dll
-Non platform assembly: data-000000001634C010 (this message is harmless)
-Non platform assembly: data-000000001634C010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001634C010.dll
-Non platform assembly: data-0000000016351020 (this message is harmless)
-Non platform assembly: data-0000000016351020 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016351020.dll
-Non platform assembly: data-0000000016354430 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016354430.dll
-Non platform assembly: data-0000000016356640 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016356640.dll
-Non platform assembly: data-000000001637FD60 (this message is harmless)
-Non platform assembly: data-0000000016385D80 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016385D80.dll
-Non platform assembly: data-00000000163F6010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000163F6010.dll
-Non platform assembly: data-0000000016404830 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016404830.dll
-Non platform assembly: data-000000001640D840 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001640D840.dll
-Non platform assembly: data-0000000015D5ADE0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015D5ADE0.dll
-Non platform assembly: data-0000000016410C50 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016410C50.dll
-Non platform assembly: data-000000001642A070 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001642A070.dll
-Non platform assembly: data-0000000016430280 (this message is harmless)
-Non platform assembly: data-0000000016430280 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016430280.dll
-Non platform assembly: data-0000000016458FE0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016458FE0.dll
-Non platform assembly: data-000000001645F800 (this message is harmless)
-Non platform assembly: data-000000001645F800 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001645F800.dll
-Non platform assembly: data-000000001646D830 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001646D830.dll
-Non platform assembly: data-000000001648D450 (this message is harmless)
-Non platform assembly: data-00000000164CA010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000164CA010.dll
-Non platform assembly: data-000000001648D450 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001648D450.dll
-Non platform assembly: data-00000000164D4DE0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000164D4DE0.dll
-Non platform assembly: data-00000000164D79F0 (this message is harmless)
-Non platform assembly: data-0000000015DC98D0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000015DC98D0.dll
-Non platform assembly: data-00000000164D79F0 (this message is harmless)
-Non platform assembly: data-00000000164D79F0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000164D79F0.dll
-Non platform assembly: data-00000000164DAA00 (this message is harmless)
-Non platform assembly: data-00000000163E2350 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000163E2350.dll
-Non platform assembly: data-00000000164DAA00 (this message is harmless)
-Non platform assembly: data-00000000164DAA00 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000164DAA00.dll
-Non platform assembly: data-00000000164E4E10 (this message is harmless)
-Non platform assembly: data-00000000164E4E10 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000164E4E10.dll
-Non platform assembly: data-00000000164EB830 (this message is harmless)
-Non platform assembly: data-00000000164EB830 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000164EB830.dll
-Non platform assembly: data-0000000016505250 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016505250.dll
-Non platform assembly: data-000000001654F020 (this message is harmless)
-Non platform assembly: data-000000001654F020 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001654F020.dll
-Non platform assembly: data-0000000016551230 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016551230.dll
-Non platform assembly: data-000000001655BE50 (this message is harmless)
-Non platform assembly: data-000000001657F870 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001657F870.dll
-Non platform assembly: data-0000000016581480 (this message is harmless)
-Non platform assembly: data-000000001655BE50 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001655BE50.dll
-Non platform assembly: data-0000000016581480 (this message is harmless)
-Non platform assembly: data-0000000016581480 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016581480.dll
-Non platform assembly: data-0000000016601010 (this message is harmless)
-Non platform assembly: data-000000001656E450 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001656E450.dll
-Non platform assembly: data-0000000016611020 (this message is harmless)
-Non platform assembly: data-0000000016611020 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016611020.dll
-Non platform assembly: data-000000001663C640 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001663C640.dll
-Non platform assembly: data-0000000016640650 (this message is harmless)
-Non platform assembly: data-0000000016640650 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016640650.dll
-Non platform assembly: data-000000001664C470 (this message is harmless)
-Non platform assembly: data-000000001664C470 (this message is harmless)
-Non platform assembly: data-000000001664C470 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001664C470.dll
-Non platform assembly: data-000000000508D3E0 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000000508D3E0.dll
-Non platform assembly: data-0000000016667290 (this message is harmless)
-Non platform assembly: data-0000000016667290 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016667290.dll
-Non platform assembly: data-000000001669CA80 (this message is harmless)
-Non platform assembly: data-0000000016696010 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016696010.dll
-Non platform assembly: data-0000000016697A20 (this message is harmless)
-Non platform assembly: data-0000000016697A20 (this message is harmless)
-Non platform assembly: data-000000001669CA80 (this message is harmless)
-Non platform assembly: data-000000001669CA80 (this message is harmless)
-Non platform assembly: data-000000001669CA80 (this message is harmless)
-Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001669CA80.dll
+Non platform assembly: data-00000000168F7740 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000168F7740.dll
+Non platform assembly: data-0000000016916190 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016916190.dll
+Non platform assembly: data-0000000016942A70 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016942A70.dll
+Non platform assembly: data-00000000169557B0 (this message is harmless)
+Non platform assembly: data-0000000016993420 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016993420.dll
+Non platform assembly: data-00000000169B2B50 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000169B2B50.dll
+Non platform assembly: data-00000000169D0BF0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000169D0BF0.dll
+Non platform assembly: data-00000000169F2BB0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000169F2BB0.dll
+Non platform assembly: data-0000000016A45010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016A45010.dll
+Non platform assembly: data-0000000016A71B60 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016A71B60.dll
+Non platform assembly: data-0000000016A9AFA0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016A9AFA0.dll
+Non platform assembly: data-0000000016AAA1D0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AAA1D0.dll
+Non platform assembly: data-0000000016AAE7E0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AAE7E0.dll
+Non platform assembly: data-0000000016AC1C10 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AC1C10.dll
+Non platform assembly: data-0000000016AC3A30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AC3A30.dll
+Non platform assembly: data-0000000016A1F720 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016A1F720.dll
+Non platform assembly: data-0000000016ACA580 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016ACA580.dll
+Non platform assembly: data-0000000016ACBD30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016ACBD30.dll
+Non platform assembly: data-0000000016AD1540 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AD1540.dll
+Non platform assembly: data-00000000167050A0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000167050A0.dll
+Non platform assembly: data-0000000016893680 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016893680.dll
+Non platform assembly: data-0000000016ADB570 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016ADB570.dll
+Non platform assembly: data-0000000016AE4980 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AE4980.dll
+Non platform assembly: data-0000000016AE73A0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016AE73A0.dll
+Non platform assembly: data-0000000016B0FDC0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B0FDC0.dll
+Non platform assembly: data-0000000016B159D0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B159D0.dll
+Non platform assembly: data-0000000016B17DE0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B17DE0.dll
+Non platform assembly: data-0000000016B7A530 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016B7A530.dll
+Non platform assembly: data-0000000016C47D30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016C47D30.dll
+Non platform assembly: data-0000000016C4BD40 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016C4BD40.dll
+Non platform assembly: data-0000000016C56B60 (this message is harmless)
+Non platform assembly: data-0000000016C56B60 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016C56B60.dll
+Non platform assembly: data-0000000016C6D240 (this message is harmless)
+Non platform assembly: data-0000000016C6D240 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016C6D240.dll
+Non platform assembly: data-0000000010771010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000010771010.dll
+Non platform assembly: data-0000000016C72250 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016C72250.dll
+Non platform assembly: data-0000000016C75660 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016C75660.dll
+Non platform assembly: data-0000000016CF5010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016CF5010.dll
+Non platform assembly: data-0000000016CF9C20 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016CF9C20.dll
+Non platform assembly: data-0000000016D04040 (this message is harmless)
+Non platform assembly: data-0000000016D04040 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D04040.dll
+Non platform assembly: data-0000000016D0AA50 (this message is harmless)
+Non platform assembly: data-0000000016D3C010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D3C010.dll
+Non platform assembly: data-0000000016D0AA50 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D0AA50.dll
+Non platform assembly: data-0000000016D3FC20 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D3FC20.dll
+Non platform assembly: data-0000000016D12C60 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D12C60.dll
+Non platform assembly: data-0000000016D17C70 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D17C70.dll
+Non platform assembly: data-0000000016D18E80 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D18E80.dll
+Non platform assembly: data-0000000016D51840 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D51840.dll
+Non platform assembly: data-0000000016D53650 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D53650.dll
+Non platform assembly: data-0000000016D54C60 (this message is harmless)
+Non platform assembly: data-0000000016D54C60 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D54C60.dll
+Non platform assembly: data-0000000016D88010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D88010.dll
+Non platform assembly: data-0000000016D89E20 (this message is harmless)
+Non platform assembly: data-0000000016D89E20 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D89E20.dll
+Non platform assembly: data-0000000016D8CA30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D8CA30.dll
+Non platform assembly: data-0000000016D9DA60 (this message is harmless)
+Non platform assembly: data-0000000016D9DA60 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016D9DA60.dll
+Non platform assembly: data-0000000016E27010 (this message is harmless)
+Non platform assembly: data-0000000016E44A30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E44A30.dll
+Non platform assembly: data-0000000016E27010 (this message is harmless)
+Non platform assembly: data-0000000016E27010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E27010.dll
+Non platform assembly: data-0000000016E2A420 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E2A420.dll
+Non platform assembly: data-0000000016E49A40 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E49A40.dll
+Non platform assembly: data-0000000016E30B70 (this message is harmless)
+Non platform assembly: data-0000000016E71C30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E71C30.dll
+Non platform assembly: data-0000000016E30B70 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E30B70.dll
+Non platform assembly: data-0000000016E37380 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016E37380.dll
+Non platform assembly: data-0000000016EE27F0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016EE27F0.dll
+Non platform assembly: data-0000000016EE5C00 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016EE5C00.dll
+Non platform assembly: data-0000000016EE6E10 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016EE6E10.dll
+Non platform assembly: data-0000000016F00230 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F00230.dll
+Non platform assembly: data-0000000016F0E450 (this message is harmless)
+Non platform assembly: data-0000000016F0E450 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F0E450.dll
+Non platform assembly: data-0000000016F3D470 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F3D470.dll
+Non platform assembly: data-0000000016F43480 (this message is harmless)
+Non platform assembly: data-0000000016F43480 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F43480.dll
+Non platform assembly: data-0000000016F48090 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F48090.dll
+Non platform assembly: data-0000000016F66CA0 (this message is harmless)
+Non platform assembly: data-0000000016F66CA0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F66CA0.dll
+Non platform assembly: data-0000000016F692B0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F692B0.dll
+Non platform assembly: data-0000000016F8C2D0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016F8C2D0.dll
+Non platform assembly: data-0000000016FA0010 (this message is harmless)
+Non platform assembly: data-0000000016890E70 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016890E70.dll
+Non platform assembly: data-0000000016FA4020 (this message is harmless)
+Non platform assembly: data-0000000016FC3A40 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016FC3A40.dll
+Non platform assembly: data-0000000016FA4020 (this message is harmless)
+Non platform assembly: data-0000000016ED0730 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016ED0730.dll
+Non platform assembly: data-0000000016FA4020 (this message is harmless)
+Non platform assembly: data-0000000016FA4020 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016FA4020.dll
+Non platform assembly: data-000000001700A010 (this message is harmless)
+Non platform assembly: data-0000000016FAE430 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016FAE430.dll
+Non platform assembly: data-000000001700A010 (this message is harmless)
+Non platform assembly: data-000000001700A010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001700A010.dll
+Non platform assembly: data-0000000017027A30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017027A30.dll
+Non platform assembly: data-0000000017029840 (this message is harmless)
+Non platform assembly: data-0000000017021A20 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017021A20.dll
+Non platform assembly: data-0000000016FB2E40 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000016FB2E40.dll
+Non platform assembly: data-0000000017029840 (this message is harmless)
+Non platform assembly: data-0000000017023C30 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017023C30.dll
+Non platform assembly: data-0000000017029840 (this message is harmless)
+Non platform assembly: data-0000000017029840 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017029840.dll
+Non platform assembly: data-0000000017030450 (this message is harmless)
+Non platform assembly: data-0000000017030450 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017030450.dll
+Non platform assembly: data-00000000170C6010 (this message is harmless)
+Non platform assembly: data-00000000170C6010 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000170C6010.dll
+Non platform assembly: data-00000000170E2640 (this message is harmless)
+Non platform assembly: data-00000000170E2640 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000170E2640.dll
+Non platform assembly: data-000000001710DC60 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001710DC60.dll
+Non platform assembly: data-0000000017111C70 (this message is harmless)
+Non platform assembly: data-0000000017111C70 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017111C70.dll
+Non platform assembly: data-0000000017115A80 (this message is harmless)
+Non platform assembly: data-0000000017115A80 (this message is harmless)
+Non platform assembly: data-0000000017115A80 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017115A80.dll
+Non platform assembly: data-0000000011776E90 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000011776E90.dll
+Non platform assembly: data-000000001712F890 (this message is harmless)
+Non platform assembly: data-000000001712F890 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000000001712F890.dll
+Non platform assembly: data-00000000171592B0 (this message is harmless)
+Non platform assembly: data-00000000171592B0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000000171592B0.dll
+Non platform assembly: data-000000001715ACC0 (this message is harmless)
+Non platform assembly: data-000000001715ACC0 (this message is harmless)
+Non platform assembly: data-0000000017164AE0 (this message is harmless)
+Non platform assembly: data-0000000017164AE0 (this message is harmless)
+Non platform assembly: data-0000000017164AE0 (this message is harmless)
+Fallback handler could not load library E:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000000017164AE0.dll
 [HugsLib] version 6.1.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -433,11 +417,11 @@ Available: True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RealRuins started patching at 3/28/2019 11:00:03 AM
+RealRuins started patching at 3/28/2019 11:21:22 AM
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RealRuins finished patching at 3/28/2019 11:00:03 AM (217.208 msec)
+RealRuins finished patching at 3/28/2019 11:21:22 AM (151.2766 msec)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -445,12 +429,24 @@ Loading some snapshots...
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Exception during loading object: System.Exception: Cannot resolve destination host
+Loaded list of 50 elements...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading 50 files...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading snapshot 07C81E74-DCA5-42BA-985C-887A4FD0DDBD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Exception during loading map by link 07C81E74-DCA5-42BA-985C-887A4FD0DDBD: System.Exception: timed out
   at RealRuins.APIService+<>c__DisplayClass5_0.<AwaitUnityDataWebResponse>b__0 () [0x00000] in <filename unknown>:0 
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Failed loading list of random maps
+Loading snapshot 61027A06-FA7F-47F9-96F5-588696B3D0AE
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -474,7 +470,7 @@ ResearchPal :: Restoring queue
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Loading some snapshots...
+Loading snapshot 8624239F-8425-46C9-98C5-677C796A9465
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -490,12 +486,12 @@ Created guest beds for the following beds: SleepingSpot, DoubleSleepingSpot, Bed
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Exception during loading object: System.Exception: timed out
+Exception during loading map by link 8624239F-8425-46C9-98C5-677C796A9465: System.Exception: timed out
   at RealRuins.APIService+<>c__DisplayClass5_0.<AwaitUnityDataWebResponse>b__0 () [0x00000] in <filename unknown>:0 
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Failed loading list of random maps
+Loading snapshot B58E6BEF-FC6D-436B-B33B-F2CA9DB2B844
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -503,47 +499,55 @@ Apparel Stuff Color detours loaded, hopefully correct
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Loading some snapshots...
+Loading snapshot 7E0EBACD-E43B-4255-9845-F06802B4D4F0
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Exception during loading object: System.Exception: Cannot resolve destination host
-  at RealRuins.APIService+<>c__DisplayClass5_0.<AwaitUnityDataWebResponse>b__0 () [0x00000] in <filename unknown>:0 
+Loading snapshot 9271E980-F4AA-43F4-A5CA-19CB559A16EA
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Failed loading list of random maps
+Loading snapshot 21EED706-2F06-4E5B-8883-5B869DD530A5
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Loading some snapshots...
+Loading snapshot 65F621CD-6550-42E1-92AC-4366D20D22AE
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Exception during loading object: System.Exception: Cannot resolve destination host
-  at RealRuins.APIService+<>c__DisplayClass5_0.<AwaitUnityDataWebResponse>b__0 () [0x00000] in <filename unknown>:0 
+Loading snapshot C5456215-972A-4A52-9A5F-63D6774206DC
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Failed loading list of random maps
+Loading snapshot 48D8A25A-1765-4971-9EB4-620F6CEFE54D
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Loading some snapshots...
+Loading snapshot 1A21B038-E3B2-4D29-89F4-E5D21F3C421D
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Exception during loading object: System.Exception: timed out
-  at RealRuins.APIService+<>c__DisplayClass5_0.<AwaitUnityDataWebResponse>b__0 () [0x00000] in <filename unknown>:0 
+Loading snapshot FDC8AA72-5037-495E-9DBA-7537BF1F12C7
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Failed loading list of random maps
+Loading snapshot 2F0C57EC-1537-462B-9450-ED6BAA6470C2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1b64 -> priority: 1 
-  Thread -> id: 21c8 -> priority: 1 
-  Thread -> id: 230 -> priority: 1 
-  Thread -> id: f00 -> priority: 1 
+Loading snapshot 16CFD54A-86A4-4D4B-9749-446A5122893B
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading snapshot 4FA6F75C-5AB1-455C-9C77-C2F99AB6C0FD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading snapshot 60C01E4D-FF07-45CE-B567-2A9DF111E1B0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading snapshot 90B0C658-72C0-4A75-ABFF-917D8C74DCB5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
